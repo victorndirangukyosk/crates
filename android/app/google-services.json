@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501143843007",
+    "project_id": "executive-app-6c46c",
+    "storage_bucket": "executive-app-6c46c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501143843007:android:9ef8fca9caaaa02419160a",
+        "android_client_info": {
+          "package_name": "com.kwikbasket.executive_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501143843007-2ga5a07h27ctrkctr45b9ksvcno65l91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kwikbasket.executive_app",
+            "certificate_hash": "ab2102c3e4f4e6447bbbd5b5ead83f9305571b89"
+          }
+        },
+        {
+          "client_id": "501143843007-5nkbnk917r0kv55ap0siuf4ejl6rio80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfS5X0tuGejzyvDzVPZjSIj_hFd731BuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501143843007-5nkbnk917r0kv55ap0siuf4ejl6rio80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
